@@ -1,0 +1,17 @@
+.adminhome_main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: inherit;
+}
+.input_elem {
+  margin: 1% 0%;
+}
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+.logoutbtn {
+  margin-top: 2%;
+}

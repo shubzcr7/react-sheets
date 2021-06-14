@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+  color: aliceblue;
+}
+.nav-menu {
+  display: flex;
+}
+.nav-item {
+  padding: 1%;
+}
